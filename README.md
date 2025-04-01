@@ -4,7 +4,8 @@
 
 This project analyzes the impact of social media usage on mental health indicators such as distraction, sleep issues, and social comparison. The goal is to identify correlations between social media habits and psychological well-being, providing actionable insights to stakeholders including educational institutions, mental health professionals, policymakers, and social media companies.
 
-##Screenshots
+## Screenshots
+
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/980d5a58-71db-46ad-8d03-a4ddb3c2670b" />
 
 <img width="632" alt="image" src="https://github.com/user-attachments/assets/90530f64-5e6b-4120-9d1c-c2a20dd31c87" />
