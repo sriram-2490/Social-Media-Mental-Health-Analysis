@@ -1,8 +1,8 @@
 # Social-Media-Mental-Health-Analysis
 
-##Team Members
-**Data Analyst:** Sai Venkata Sriram Chowdary Karicheti
-**Project Manager:** Sai Keerthana Bammidi
+## Team Members
+- **Data Analyst:** Sai Venkata Sriram Chowdary Karicheti
+- **Project Manager:** Sai Keerthana Bammidi
 
 ## Project Overview
 
