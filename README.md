@@ -1,5 +1,9 @@
 # Social-Media-Mental-Health-Analysis
 
+##Team Members
+**Data Analyst:** Sai Venkata Sriram Chowdary Karicheti
+**Project Manager:** Sai Keerthana Bammidi
+
 ## Project Overview
 
 This project analyzes the impact of social media usage on mental health indicators such as distraction, sleep issues, and social comparison. The goal is to identify correlations between social media habits and psychological well-being, providing actionable insights to stakeholders including educational institutions, mental health professionals, policymakers, and social media companies.
